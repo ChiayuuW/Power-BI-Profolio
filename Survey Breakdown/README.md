@@ -27,7 +27,7 @@ This project is a Power BI dashboard that explores trends and insights from a gl
 
 ## Dataset Source
 
-This dataset was provided for educational use. It includes self-reported responses from individuals working or aspiring to work in data-related fields [Learn Power BI in Under 3 Hours](https://www.youtube.com/watch?v=I0vQ_VLZTWg&t=4168s). Fields include:
+This dataset was provided for educational use ([Learn Power BI in Under 3 Hours](https://www.youtube.com/watch?v=I0vQ_VLZTWg&t=4168s)). It includes self-reported responses from individuals working or aspiring to work in data-related fields. Fields include:
 - Demographics (Age, Country)
 - Job Role & Salary
 - Tools & Languages Used
