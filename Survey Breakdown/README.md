@@ -33,9 +33,8 @@ This project is a Power BI dashboard that explores trends and insights from a gl
   - Neither Easy nor Difficult: 24.76%
   - Easy or Very Easy: <12%
 
----
 
-## 🧪 Dataset Source
+## Dataset Source
 
 This dataset was provided for educational use. It includes self-reported responses from individuals working or aspiring to work in data-related fields. Fields include:
 - Demographics (Age, Country)
@@ -43,23 +42,19 @@ This dataset was provided for educational use. It includes self-reported respons
 - Tools & Languages Used
 - Satisfaction & Difficulty Ratings
 
----
-
-## ▶️ How to Use
+## How to Use
 
 1. Download the `.pbix` file from this folder.
 2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with the dashboard to explore filters, visualizations, and insights.
 
----
 
-## 📬 Contact
+
+## Contact
 
 If you have any questions, suggestions, or would like to collaborate:
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-
----
 
 
