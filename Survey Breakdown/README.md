@@ -19,24 +19,15 @@ This project is a Power BI dashboard that explores trends and insights from a gl
 
 ### Career and Salary
 - **Roles Covered:** Data Analyst, Data Scientist, Data Engineer, Architect, etc.
-- **Salary Comparison:** Average salary by job title
-- **Job Title Distribution:** Count by current role
+- **Salary Comparison:** Average salary is higher in Data Scientists, and then is Data Engineer.
 
 ### Technical Skills
 - **Favorite Programming Languages:** Python (most popular), R, SQL, C/C++
 
-### Perceptions and Sentiment
-- **Work-Life Balance Score:** 5.74 / 10
-- **Salary Satisfaction Score:** 4.27 / 10
-- **Ease of Breaking Into the Field:**
-  - Difficult: 42.7%
-  - Neither Easy nor Difficult: 24.76%
-  - Easy or Very Easy: <12%
-
 
 ## Dataset Source
 
-This dataset was provided for educational use. It includes self-reported responses from individuals working or aspiring to work in data-related fields. Fields include:
+This dataset was provided for educational use. It includes self-reported responses from individuals working or aspiring to work in data-related fields [Learn Power BI in Under 3 Hours](https://www.youtube.com/watch?v=I0vQ_VLZTWg&t=4168s). Fields include:
 - Demographics (Age, Country)
 - Job Role & Salary
 - Tools & Languages Used
