@@ -1,5 +1,6 @@
 # Amazon Sales Dashboard
 
+[Kaggle - Amazon Sales Dataset](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset/data)
 A Power BI dashboard that analyzes sales, profit, and customer trends from Amazon transaction data.
 
 ## Key Metrics
