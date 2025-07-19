@@ -5,6 +5,7 @@ Welcome to my Power BI Portfolio! This repository showcases the projects I’ve 
 # Projects
 
 Below is a list of my featured Power BI projects:
+- [Amazon Sales Report](https://github.com/ChiayuuW/Power-BI-Profolio/tree/main/Sales%20Report)
 - [Survey Breakdown](https://github.com/ChiayuuW/Power-BI-Profolio/tree/main/Survey%20Breakdown)
 
 # Skills Demonstrated
