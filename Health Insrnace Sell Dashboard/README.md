@@ -7,7 +7,6 @@ This project is a Power BI dashboard that analyzes customer behavior in purchasi
 - `train.xlsx` – Raw dataset of 381,109 insurance customer records
 - `Health Insurance Cross Sale Dashboard.pbix` – Power BI report file (created in Power BI Desktop)
 - `Health Insurance Cross Sale Dashboard.pdf` – Exported dashboard
-- `screenshot.png` – Preview image (add manually)
 
 ## Dashboard Highlights
 
